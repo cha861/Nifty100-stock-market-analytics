@@ -148,6 +148,49 @@ The dataset contains financial information of Nifty 100 companies including:
 - Track shareholder returns
 
 ---
+## 📷 Dashboard Preview
+
+### Executive Market Overview
+
+![Executive Market Overview](images/overview.png)
+
+---
+
+### Company Deep Dive
+
+![Company Deep Dive](images/Company-deepdive.png)
+
+---
+
+### Sector Comparison
+
+![Sector Comparison](images/sector-comparision.png)
+
+---
+
+### Financial Health Scorecard
+
+![Financial Health Scorecard](images/health-scorecard.png)
+
+---
+
+### Growth & Valuation Analytics
+
+![Growth Analytics](images/growth-analytics.png)
+
+---
+
+### Debt & Leverage Monitor
+
+![Debt & Leverage](images/debt-leverage.png)
+
+---
+
+### Dividend & Shareholder Returns
+
+![Dividend Analysis](images/dividend-analysis.png)
+
+---
 
 ## 🚀 Future Improvements
 
